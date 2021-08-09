@@ -25,7 +25,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**BU SUNUCU AxxA TARAFINDAN HAVAYA UÇURULMUŞTUR.** :wink:"  
+          "**BU SUNUCU AxxA TARAFINDAN HAVAYA UÇURULMUŞTUR. https://discord.gg/SrTwfcu9 ** :wink:"  
         )
       )
       .catch(console.error);
