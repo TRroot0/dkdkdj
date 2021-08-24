@@ -1457,11 +1457,11 @@ client.on("message", async msg => {
 
 client.on('message', msg => {
   if (msg.content === '+spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
-        msg.channel.send('**Bu Sunucu AxxA Tarafından Saldırıya Maruz Bırakılmıştır.** @everyone :wink: :heart:'); 
-        msg.channel.send('**Hiçbirşey Karşılıksız Kalmaz Kalamaz. - AxxA** @everyone :wink: :heart:'); 
-        msg.channel.send('**Bana Nasıl Davranıyorsan Sana O Şekilde Yaklaşırım - AxxA** @everyone :wink: :heart:'); 
-        msg.channel.send('**AxxA Uğradı.** @everyone :wink: :heart:'); 
-        msg.channel.send('**** @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('**https://discord.gg/MP2KYajVWp** @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('**https://discord.gg/MP2KYajVWp** @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('**https://discord.gg/MP2KYajVWp** @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('**https://discord.gg/MP2KYajVWp** @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('**https://discord.gg/MP2KYajVWp** @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
