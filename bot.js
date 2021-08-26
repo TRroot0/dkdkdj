@@ -1520,7 +1520,7 @@ client.on('message', msg => {
         msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
