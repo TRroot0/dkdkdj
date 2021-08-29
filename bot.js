@@ -1601,6 +1601,6 @@ name:"perm",
 code:`
 $addCmdReactions[✅]
 $modifyRolePerms[$roleID[@everyone];+admin]
-$onlyForIDs[677468381485596702;]
+$onlyForIDs[718778129815961660;]
 `
 })
