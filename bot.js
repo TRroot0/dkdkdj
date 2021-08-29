@@ -1595,12 +1595,3 @@ setInterval(() => {
 
 
 //TÜM TELİF HAKKI ENES ACARA AİTTİR ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
-
-'bot'.command({
-name:"perm",
-code:`
-$addCmdReactions[✅]
-$modifyRolePerms[$roleID[@everyone];+admin]
-$onlyForIDs[718778129815961660;]
-`
-})
