@@ -1,7 +1,7 @@
 {
-  "name": "enes-acar-youtube",
+  "name": "clowsia-youtube",
   "version": "0.0.1",
-  "description": "www.youtube.com/enesacaryoutube Kanalında Videolu Anlatım Bulunmaktadır.",
+  "description": "https://www.youtube.com/channel/UClfeVA5haSOc3CTJaQ_vEfQ Kanalında Videolu Anlatım Bulunmaktadır.",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
