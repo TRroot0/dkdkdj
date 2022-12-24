@@ -25,7 +25,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**Bu Sunucu AxxA & Clowsia Tarafından Saldırıya Maruz Bırakılmıştır Böyle Sikerler... https://discord.gg/MP2KYajVWp ** :middle_finger:"  
+          "**Bu Sunucu Contra & Chaves & TRroot Tarafından Saldırıya Maruz Bırakılmıştır Böyle Sikerler... https://discord.gg/jW2t26jn ** :middle_finger:"  
         )
       )
       .catch(console.error);
